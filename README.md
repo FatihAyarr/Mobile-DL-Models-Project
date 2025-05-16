@@ -1,5 +1,5 @@
 # Mobile DL Models Project
-Mobile TFLite Image Classification Models with DL
+Mobile TFLite Image Classification Models with Deep Learning
 
 1- Use the download_images.py python script to download images from AWS S3
 
